@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Validates in the instagram app" skipped="0" tests="2" time="0.87" timestamp="2020-01-20 11:31:11"><testcase name="Create new account."><error message="java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null" type="net.sf.cglib.core.CodeGenerationException">java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null</error><system-err>java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase><testcase name="Add favorite."><error message="java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null" type="net.sf.cglib.core.CodeGenerationException">java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null</error><system-err>java.lang.AssertionError--&gt;java.lang.NullPointerException--&gt;null&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
